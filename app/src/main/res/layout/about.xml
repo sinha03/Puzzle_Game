@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#EAA12F"
+    android:orientation="vertical"
+
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dip"
+        android:textColor="#090336"
+        android:text="RUMA SINHA"
+        android:layout_gravity="center"
+        android:layout_marginTop="80dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dip"
+        android:textColor="#090336"
+        android:text="CSE 31st batch(4th year 3rd
+             semister)"
+        android:layout_marginLeft="15dp"
+        android:layout_gravity="center"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dip"
+        android:textColor="#090336"
+        android:text="Metropolitan University"
+        android:layout_gravity="center"
+        />
+</LinearLayout>

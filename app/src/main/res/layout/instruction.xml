@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" android:orientation="vertical"
+    android:background="#090336"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16dip"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:textColor="#ff6342"
+
+
+        android:text="For the 8-puzzle, a straight forward description is a 3X3 array of matrix of numbers.Arrange The Grid in following pattern by moving blocks adjacent to Blank.Move empty space (blank) to the left, move blank up, move blank to the right and move blank down,. These moves are modeled by production rules that
+          operate on the state descriptions in the appropriate manner."
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/TitleImage"
+        android:background="@drawable/iconn"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="30dp"
+
+
+        android:layout_gravity="center_horizontal">
+    </ImageView>
+
+</LinearLayout>
